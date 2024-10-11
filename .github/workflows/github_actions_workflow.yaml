@@ -17,5 +17,5 @@ jobs:
         with:
           args: >
               -Dsonar.organization=vellaboinashruthireddy
-              -Dsonar.projectKey=SonarCloudCodeAnalyisis
+              -Dsonar.projectKey=vellaboinashruthireddy
               -Dsonar.python.coverage.reportPaths=coverage.xml
